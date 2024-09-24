@@ -1,0 +1,14 @@
+header  {
+    display: flex;
+    margin: 1vw 0 0 0;
+    justify-content: space-between;
+}
+header ul {
+    display: flex;
+}
+header ul li{
+    margin: 0 1vw 0 0;
+}
+section.banner h2{
+    
+}
